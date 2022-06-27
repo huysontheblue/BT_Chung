@@ -1,0 +1,159 @@
+.row{
+    float: left;
+}
+.abc{
+    position: relative;
+    width: 700px;
+    color:red;
+    font-size: 50px;
+    margin-left: 480px;
+    bottom: -40px;
+}
+/* .abc:hover{
+    background-color: red;
+} */
+
+.box1:hover{
+    color: yellow;
+}
+
+.box3:hover{
+    color: red;
+    background-color:#3B5998;
+}
+
+.box5:hover{
+    color:white;
+    background-color: black;
+}
+
+.box9:hover{
+    color: red;
+}
+
+.box10:hover{
+    color: red;
+}
+
+
+.box{
+    width: 300px;
+    position: relative;
+    left: 360px;
+    top: 80px;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+}
+
+.box1{
+    color: black;
+    width: 500px;
+    font-size: 20px;
+    position: relative;
+    left: 750px;
+    top: -190px;
+}
+
+.box3{
+    color: white;
+    width: 60px;
+    text-decoration: none;
+    padding: 7px 30px;
+    border-radius: 10px;
+    position: relative;
+    left: 900px;
+    top: -275px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:black;
+}
+
+.box2{
+    color: green;
+    position: relative;
+    font-size: 40px;
+    width: 500px;
+    left: 730px;
+    top: -480px;
+
+}
+
+body
+{
+    background-image: url(https://img.thuthuatphanmem.vn/uploads/2018/09/24/hinh-anh-gif-khu-rung-tuyet-roi-dem-trang_053437398.gif);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+
+}
+
+.box4{
+
+    width: 1000px;
+    height: 500px;
+    background-color: rgba(202,229,232,0.7);
+    background-repeat: no-repeat;
+    background-size: auto;
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 19%;
+    margin-top: 10%;
+    border-radius: 100px;
+    
+}
+
+.box5{
+    color: white;
+    width: 60px;
+    text-decoration: none;
+    padding: 7px 37px;
+    border-radius: 10px;
+    position: relative;
+    left: 1070px;
+    top: -293px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:black;
+}
+
+/* .box7{
+    color: red;
+    width: 60px;
+    text-decoration: none;
+    border-radius: 50px;
+    position: relative;
+    left: 780px;
+    top: -253px;
+    padding: 5px 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:black;
+} */
+
+.box8{
+    background-color: rgba(11,156,49,0.9);
+    height: 70px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.box9{
+    position: relative;
+    left: 1000px;
+    top: 16px;
+    text-decoration: none;
+    color: yellow;
+    font-size: 25px;
+}
+
+.box10{
+    position: relative;
+    left: 1110px;
+    top: 16px;
+    text-decoration: none;
+    color: yellow;
+    font-size: 25px;
+}

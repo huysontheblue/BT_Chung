@@ -1,0 +1,150 @@
+body{
+    font-family: Arial;
+        width: 100%;
+        height: 100%;
+        color: #141414;
+    }
+    /* .header{
+        background-image: url(/img/banner1.png);
+        width: 100%;
+        height: 450px;
+        object-fit: cover;
+    
+    } */
+    .header .img__header{
+        width: 100%;
+        max-height: 500px;
+    }
+    .header .carousel-caption{
+        font-size: 25px;
+        bottom: 30%;
+    }
+    
+    
+    
+    .navbar-brand{
+        color: cyan !important;
+    }
+    .navbar{
+        padding: 0px 0px !important;
+    }
+     .navbar .navbar-brand {
+         color:white;
+     }
+     .menu ul{
+        display: flex;
+        justify-content:center;
+     }
+    .menu-left{
+        width: 50%;
+    }
+    .menu-right{
+        width: 50%;
+    }
+    .menu span{
+        background-color:black;
+        float: left;
+    }
+    .main{
+        background: rgb(253, 237, 220);
+    }
+    .menu img{
+        width: 20px;
+        height: 100%;
+    }
+    .main .row{
+        border:2px solid cornflowerblue;
+        margin-bottom: 55px;
+    }
+    .info {
+        color: darkcyan;
+    }
+    .img-info{
+        width: 70%;
+        height: 500px;
+        margin-left: 100px;
+    }
+    .main{
+        padding: 90px 0px 0px 0px;
+    }
+    .text-main{
+        list-style: square !important;
+        margin-left: 50px;
+        font-size: 18px;
+    }
+    .main-text h1{
+        text-align: center;
+    }
+    .text-main1{
+        color: wheat;
+       padding-left: 80px;
+       padding-top: 40px;
+    }
+    .text-main1 h1{
+        text-align: center;
+    }
+    .row h1{
+        text-align: center;
+        margin-top: 20px;
+       
+    }
+    .blockquote2{
+        margin-top:45px; 
+        margin-left: 35px;
+    }
+    .blockquote3{
+        margin-top:45px; 
+        margin-left: 35px;
+    }
+    .blockquote4{
+        margin-top:10px; 
+        margin-left: 10Spx;
+    }
+     .img-info{
+        height: 500px;
+    }
+    .main-1{
+        background-image: url("/assets/img/img102.jpg");
+        background-color: #C77B50;
+    }
+    .main2{
+        background-image: url('/assets/img/bgmain2.jpg');
+        background-color: #C7AF50;
+    }
+    .main2-text{
+        color: wheat;
+    }
+    .main3{
+        background-image: url('/assets/img/footer6.jpg');
+        background-color: #B8B4A7;
+    }
+    
+    .main4{
+        background-image: url('/assets/img/bgmain4.jpg');
+        background-color: #787056;
+    }
+    .skill li{
+        list-style: none;
+        
+    }
+    .img__header{
+        width: 100%;
+    }
+    .footer{
+        background-color: black;
+    }
+    .footer__img img{
+        width: 100%;
+        height: 120px !important;
+        margin-bottom: 0px;
+        padding-bottom: 0px !important;
+    }
+    .contract li{
+        margin-right: 30px !important;
+    }
+    .footer__end h3{
+        text-align: center;
+    }
+    .footer .pt-4{
+        padding-top: 1rem!important;
+    }
